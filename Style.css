@@ -1,0 +1,71 @@
+*{
+box-sizing: border-box;
+}
+body{
+    margin-top: 50px;
+    padding: 0;
+}
+.container{
+    padding: 30px;
+    background-color: rgb(213, 227, 241);
+    width: 30%;
+    margin: auto;
+    border: 2px solid green;
+    
+}
+h1{
+    text-align:center;
+    padding-bottom:20px;
+}
+input[type="text"]{
+    border-radius: 3px;
+    border-color: blue;
+    width:90%;
+    height:30px;
+}
+input[type="Email"]{
+    border-radius: 3px;
+    border-color: blue;
+    width:90%;
+    height:30px;
+}
+input[type="Number"]{
+    border-radius: 3px;
+    border-color: blue;
+    width:90%;
+    height:30px;
+}
+fieldset{
+    border-radius:3px;
+    border-color: blue;
+    width: 60%;
+}
+input[type="Description"]{
+    border-radius: 3px;
+    border-color: blue;
+    width:90%;
+    height:30px;
+}
+input[type="Expiration"]{
+    border-radius: 3px;
+    border-color: blue;
+    width:90%;
+    height:30px;
+}
+#comment{
+    border-radius:5px;
+    width:90%;
+    height:50px;
+    border-color: blue;
+}
+input[type="button"]{
+    border-radius:4px;
+    width:90%;
+    height:40px;
+    border-color: blue;
+    background-color: green;
+    color: white;
+
+}
+
+
